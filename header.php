@@ -36,6 +36,9 @@
         <li class="nav-item" style="padding-right: 20px;">
           <a class="nav-link" href="#">Software and apps</a>
         </li>
+        <li class="nav-item" style="padding-right: 20px;">
+          <a class="nav-link" href="#">About us</a>
+        </li>
         <li class="nav-item">
           <a class="nav-link" href="#">Request a demo</a>
         </li>
